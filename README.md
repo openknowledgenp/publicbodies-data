@@ -29,7 +29,7 @@ This dataset is intended for researchers, journalists, civil society organizatio
 Contributions to improve and update this dataset are welcome! If you have verified information to add or correct, please submit a pull request or open an issue.
 
 ## License
-This dataset is released under a [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), allowing free use and redistribution with attribution.
+This dataset is released under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/licenses/by/4.0/), allowing free use and redistribution with attribution.
 
 ## Contact
 For inquiries, collaborations, or feedback, please reach out to [Open Knowledge Nepal](https://oknp.org/contact).
