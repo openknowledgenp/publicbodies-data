@@ -1,10 +1,10 @@
-## PublicBodies Data of Nepal
+# PublicBodies Data of Nepal
 This repository contains a publicly accessible dataset of public agencies and their information officers in Nepal.
 
-# About the Dataset
+### About the Dataset
 This dataset was crowdsourced to address the urgent need for a comprehensive database of public agencies and their designated information officers. The goal is to facilitate easier access to government information in Nepal, improving transparency and accountability.
 
-# Data Collection
+### Data Collection
 The dataset was gathered through a crowdsourcing initiative led by a group of volunteers during a datathon hosted by Open Knowledge Nepal in Kathmandu. The event was supported by Accountability Lab Nepal and brought together youth from various interdisciplinary sectors to collect and verify the necessary data.
 
 # Dataset Contents
